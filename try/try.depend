@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1585904185 source:d:\lbx\robot\second\try\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<cstdio>
+
